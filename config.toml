@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Tom's Hugo Site"
+title = "Thomas Johander's Tech Blog"
 theme = "hugo-coder"
 
 [params]
